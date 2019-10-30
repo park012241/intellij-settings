@@ -2,4 +2,14 @@
   <component name="ApplicationNotificationSettings">
     <option name="lastUpdateNotification" value="1.1.0" />
   </component>
+  <component name="DiscordApplicationSettings">
+    <option name="applicationDetails" value="CUSTOM" />
+    <option name="applicationDetailsCustom" value="SLoWMoTIoN" />
+    <option name="applicationState" value="CUSTOM" />
+    <option name="applicationStateCustom" value="로동중..." />
+    <option name="projectState" value="CUSTOM" />
+    <option name="projectStateCustom" value="로동중..." />
+    <option name="projectTime" value="PROJECT" />
+    <option name="fileTime" value="PROJECT" />
+  </component>
 </application>
